@@ -1,2 +1,2 @@
-export const upload_preset= 'q54ymc6t'
+export const upload_preset= 'user_preset'
 
